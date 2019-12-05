@@ -1,11 +1,7 @@
 # Overview
 This repository contains all the code needed to complete the final project for the Localization course in Udacity's Self-Driving Car Nanodegree.
 
-</br>
-
-<img src="./success.png" alt="Training set" width="500" height="300"/>
-
-</br>
+![center](./success.png)
 
 ## Project Introduction
 Your robot has been kidnapped and transported to a new location! Luckily it has a map of this location, a (noisy) GPS estimate of its initial location, and lots of (noisy) sensor and control data.
@@ -18,14 +14,13 @@ This project involves the Term 2 Simulator which can be downloaded [here](https:
 This repository includes two files that can be used to set up and install uWebSocketIO for either Linux or Mac systems. For windows you can use either Docker, VMware, or even Windows 10 Bash on Ubuntu to install uWebSocketIO.
 
 Once the install for uWebSocketIO is complete, the main program can be built and ran by doing the following from the project top directory.
+```
+bash clean.sh
 
-`bash clean.sh`
+bash build.sh
 
-`bash build.sh`
-
-`bash run.sh`
-
-
+bash run.sh
+```
 Tips for setting up your environment can be found [here](https://classroom.udacity.com/nanodegrees/nd013/parts/40f38239-66b6-46ec-ae68-03afd8a601c8/modules/0949fca6-b379-42af-a919-ee50aa304e6a/lessons/f758c44c-5e40-4e01-93b5-1a82aa4e044f/concepts/23d376c7-0195-4276-bdf0-e02f1f3c665d)
 
 Note that the programs that need to be written to accomplish the project are src/particle_filter.cpp, and particle_filter.h

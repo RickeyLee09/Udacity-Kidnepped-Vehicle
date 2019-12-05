@@ -13,8 +13,6 @@
   <component name="ChangeListManager">
     <list default="true" id="36e9e087-fcd1-4361-a36a-293cf3b0cb2d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main.cpp" afterPath="$PROJECT_DIR$/src/main.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/particle_filter.cpp" afterPath="$PROJECT_DIR$/src/particle_filter.cpp" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,7 +40,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="particle_filter.cpp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="particle_filter.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/particle_filter.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="235">
@@ -50,6 +48,19 @@
               <folding>
                 <element signature="e#88#116#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="60">
+                <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -332,15 +343,15 @@
       <option name="presentableId" value="Default" />
       <updated>1575356922627</updated>
       <workItem from="1575356924180" duration="24260000" />
-      <workItem from="1575530113946" duration="243000" />
+      <workItem from="1575530113946" duration="677000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24503000" />
+    <option name="totallyTimeSpent" value="24937000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="48" y="23" width="1392" height="877" extended-state="1" />
+    <frame x="48" y="23" width="1392" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1502553" sideWeight="0.48789808" order="1" side_tool="false" content_ui="combo" />
@@ -421,23 +432,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="296">
-            <caret line="95" column="18" lean-forward="true" selection-start-line="95" selection-start-column="18" selection-end-line="95" selection-end-column="18" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="47" lean-forward="false" selection-start-line="31" selection-start-column="47" selection-end-line="31" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/helper_functions.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="645">
@@ -472,6 +466,28 @@
           <folding>
             <element signature="e#88#116#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/success.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="60">
+            <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="47" lean-forward="false" selection-start-line="31" selection-start-column="47" selection-end-line="31" selection-end-column="47" />
+          <folding />
         </state>
       </provider>
     </entry>
